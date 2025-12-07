@@ -1,0 +1,5 @@
+.venv/
+models/
+dataset/
+config.bat
+node_modules

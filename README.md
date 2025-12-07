@@ -76,4 +76,3 @@ Press Q to exit.
 ## Workflow
 
 The system supports multiple people. Repeat the capture-train-predict cycle as needed to add new identities or improve recognition accuracy.
-# face-recognition-mp-lbph
