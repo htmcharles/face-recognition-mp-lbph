@@ -3,3 +3,4 @@ models/
 dataset/
 config.bat
 node_modules
+.vscode/tasks.json
